@@ -3,7 +3,7 @@ import { Github, Globe } from "lucide-react";
 export function Footer() {
   return (
     <footer className="w-full flex items-center justify-between px-2 sm:px-3 md:px-4 lg:px-32 py-4 border-t">
-      <div className="w-full flex flex-col items-center justify-between gap-3">
+      <div className="w-full flex flex-col items-center justify-between gap-3 text-center">
         <p className="text-sm">
           &copy; {new Date().getFullYear()} Edgar Benavides. Todos los derechos
           reservados.
