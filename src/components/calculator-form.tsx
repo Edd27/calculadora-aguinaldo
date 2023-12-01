@@ -140,8 +140,7 @@ const MoreThanOneYearForm = () => {
         <AlertDescription>
           Recuerda que el monto de aguinaldo para trabajadores con más de un año
           trabajando en la empresa, será equivalente a 15 días como minimo de
-          trabajo
-          <span className="font-bold">20 de diciembre.</span>
+          trabajo y debe ser otorgado antes del <span className="font-bold">20 de diciembre.</span>
         </AlertDescription>
       </Alert>
     </section>
